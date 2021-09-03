@@ -1,2 +1,2 @@
-# CE020_AnilBuddhdev
+# CE151_AnilBuddhdev
 Machine Learning Lab Assignments
